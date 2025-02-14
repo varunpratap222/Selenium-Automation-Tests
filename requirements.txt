@@ -1,0 +1,5 @@
+## Test Scenarios
+- Login validation (valid/invalid users)
+- Add items to cart
+- Checkout workflow
+- Logout functionality
