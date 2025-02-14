@@ -23,17 +23,24 @@ Ensure the following are installed on your system before running the tests:
 ## **How to Run the Tests**
 
 1. **Navigate to the Project Directory**
+```sh
 cd path/to/Syfe_QA_Assignment
-
+```
 2. Run All Tests
-To execute all test cases, run: pytest tests/   
-
+To execute all test cases, run:
+```sh
+pytest tests/
+```
 3. Run a Specific Test File
-To run only the login tests, use: pytest tests/test_login.py
-
+To run only the login tests, use:
+```sh
+pytest tests/test_login.py
+```
 4. Run Tests with Detailed Output
-For more detailed output, add the -v (verbose) flag: pytest -v
-
+For more detailed output, add the -v (verbose) flag:
+```sh
+pytest -v
+```
 ## **Assumptions & Observations**
 
 ### **Assumptions**
