@@ -1,4 +1,4 @@
-# Syfe QA Assignment - Selenium Automation
+# Selenium Automation Tests
 
 ## **Project Overview**
 This project automates the testing of login functionality, adding/removing items to/from the cart, and completing a checkout process on a web application using Selenium with Python and Pytest.
