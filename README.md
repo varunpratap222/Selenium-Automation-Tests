@@ -19,12 +19,20 @@ Ensure the following are installed on your system before running the tests:
      ```sh
      pip install -r requirements.txt
      ```
+5.  **Web Browser Details**
+   -  BASE_URL =
+   -  ```sh
+      "https://www.saucedemo.com/"
+      ```
+   -  VALID_USERNAME = "standard_user"
+   -  VALID_PASSWORD = "secret_sauce"
+     
 
 ## **How to Run the Tests**
 
 1. **Navigate to the Project Directory**
 ```sh
-cd path/to/Syfe_QA_Assignment
+cd https://github.com/varunpratap222/Selenium-Automation-Tests
 ```
 2. Run All Tests
 To execute all test cases, run:
