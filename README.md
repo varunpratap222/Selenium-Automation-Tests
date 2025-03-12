@@ -21,7 +21,7 @@ Ensure the following are installed on your system before running the tests:
      ```
 5.  **Web Browser Details**
    -  BASE_URL =
-   -  ```sh
+      ```sh
       "https://www.saucedemo.com/"
       ```
    -  VALID_USERNAME = "standard_user"
